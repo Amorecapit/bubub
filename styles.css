@@ -223,8 +223,8 @@ input[type="range"]::-webkit-slider-thumb{
 /*responsive*/
 @media(max-width: 700px){
 	.main{
-		min-height: 100vh;
-		width: 100%;
+		min-height: 80vh;
+		width: 80%;
 		flex-direction: column;
 	}
 	.right{
@@ -259,8 +259,8 @@ input[type="range"]::-webkit-slider-thumb{
 
 @media(max-width: 500px){
 	.main{
-		min-height: 100vh;
-		width: 100%;
+		min-height: 50vh;
+		width: 70%;
 		flex-direction: column;
 	}
 	.right{
